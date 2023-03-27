@@ -1,4 +1,4 @@
-# !/bin/sh -1
+# !/bin/sh -l
 
 echo "hello $1"
 echo "time=$(date_" >> $GITHUB_OUTPUT
